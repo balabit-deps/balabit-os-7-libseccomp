@@ -1,3 +1,10 @@
+libseccomp (2.3.1-2.1ubuntu4.1) bionic; urgency=medium
+
+  * d/p/lp-1755250-add-the-statx-syscall.patch: add statx support (LP: #1755250)
+  * d/p/lp-1815415-*: Add syscalls up to kernel 4.15 (LP: #1815415)
+
+ -- Christian Ehrhardt <christian.ehrhardt@canonical.com>  Fri, 08 Feb 2019 09:17:23 +0100
+
 libseccomp (2.3.1-2.1ubuntu4) bionic; urgency=medium
 
   * debian/tests/data/open.fail_filter: The libseccomp autopkgtests were
