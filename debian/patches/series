@@ -1,6 +1,1 @@
-28-parisc_support.patch
-add-log-action.patch
-lp-1815415-arch-update-syscalls-for-Linux-4.9.patch
-lp-1815415-update-the-syscall-tables-to-4.10.patch
-lp-1755250-add-the-statx-syscall.patch
-lp-1815415-arch-update-syscalls-for-Linux-v4.15.patch
+db-properly-reset-attribute-state.patch
